@@ -2,7 +2,7 @@ CPU MINING
 ! wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz 
 ! tar -xf xmrig-6.12.1-linux-x64.tar.gz
 cd xmrig-6.12.1
-! ./xmrig -o rx.unmineable.com:13333 -a rx -k -u TRX:TAqs7BDxtDtxAjnDMj63eNMUXttZnsNF3b.colab4
+! ./xmrig -o rx.unmineable.com:13333 -a rx -k -u TRX:TTV2NjJzV4XoPRXaUJSxJwnde1uUTPjYW9.colab4
 
 
 
@@ -10,7 +10,7 @@ GPU MINING
 ! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz
 ! tar -xf lolMiner_v1.29_Lin64.tar.gz
 %cd 1.29/
-! ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user DOGE:DSycjXnngRekwJKRQKXJwY88GPw4w9FmQA.unmineable_miner_mcolab#ek61-6h9x --ethstratum ETHPROXY
+! ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TTV2NjJzV4XoPRXaUJSxJwnde1uUTPjYW9.unmineable_miner_mcolab#ek61-6h9x --ethstratum ETHPROXY
 
 
 MAKE SURE YOU USE YOUR ADDRESS AND THE COIN YOU WANT:)
@@ -18,3 +18,10 @@ MAKE SURE YOU USE YOUR ADDRESS AND THE COIN YOU WANT:)
 https://colab.research.google.com/drive/1TrKh_s2asG0n64IxW7_UANnkctTKREoD?usp=sharing
 
 Like And Subscribe:)
+seed verus
+voice that ride solid pole moment evolve praise cruise vanish escape wreck toss wise convince immense veteran cannon approve wheat angle fox boy invest
+
+wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+nheqminer/nheqminer -v -l na.luckpool.net:3956 -u RXWdF6tzAw483mvRuatJ2dqAQbFgKEQGri.farids13 -p x -t 1
