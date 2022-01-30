@@ -9,8 +9,8 @@ cd xmrig-6.12.1
 GPU MINING
 ! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz
 ! tar -xf lolMiner_v1.29_Lin64.tar.gz
-%cd 1.29/
-! ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user DOGE:DSycjXnngRekwJKRQKXJwY88GPw4w9FmQA.unmineable_miner_mcolab#ek61-6h9x --ethstratum ETHPROXY
+! cd 1.29/
+! ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user ETH:0x914d2e6f11f35d10bf9e56c8cccaffbb92f1c2f5.fasttext --ethstratum ETHPROXY
 
 
 MAKE SURE YOU USE YOUR ADDRESS AND THE COIN YOU WANT:)
