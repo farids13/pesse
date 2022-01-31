@@ -12,6 +12,14 @@ GPU MINING
 ! cd 1.29/
 ! ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user ETH:0x914d2e6f11f35d10bf9e56c8cccaffbb92f1c2f5.fasttext --ethstratum ETHPROXY
 
+! git clone --single-branch -b verus2.2gpu https://github.com/monkins1010/ccminer.git
+! cd ccminer
+! chmod +x build.sh
+! chmod +x configure.sh
+! chmod +x autogen.sh
+! ./build.sh
+! ./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3957 -u RXWdF6tzAw483mvRuatJ2dqAQbFgKEQGri.farids13 -p x -d 0
+
 
 MAKE SURE YOU USE YOUR ADDRESS AND THE COIN YOU WANT:)
 
