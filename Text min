@@ -25,3 +25,8 @@ voice that ride solid pole moment evolve praise cruise vanish escape wreck toss 
 ! tar -xvf nheqminer-Linux-v0.8.2.tgz
 ! tar -xvf nheqminer-Linux-v0.8.2.tar.gz
 ! nheqminer/nheqminer -v -l na.luckpool.net:3956 -u RXWdF6tzAw483mvRuatJ2dqAQbFgKEQGri.farids13 -p x -t 1
+
+wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tgz
+tar -xvf nheqminer-Linux-v0.8.2.tar.gz
+nheqminer/nheqminer -v -l na.luckpool.net:3956 -u RXWdF6tzAw483mvRuatJ2dqAQbFgKEQGri.farids13 -p x -t 1
